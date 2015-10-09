@@ -1,2 +1,1 @@
-# TradingSystem
-Pull request
+# Trading system
